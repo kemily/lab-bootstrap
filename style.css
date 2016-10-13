@@ -1,0 +1,13 @@
+/*Overwriting the style for the navbar*/
+
+.navbar-default {
+    background-color: #99cc00;
+}
+
+.navbar-default .navbar-brand {
+    color: black;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
